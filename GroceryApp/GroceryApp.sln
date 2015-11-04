@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GroceryApp", "GroceryApp\GroceryApp.csproj", "{14C79A74-76F8-4C8B-B744-6E3660375015}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordHash", "..\..\..\Visual Studio 2013\Projects\MyPrograms\PasswordHash\PasswordHash.csproj", "{AE8E2FB9-9FE9-4CA6-81AA-80770D29142E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordHash", "PasswordHash\PasswordHash.csproj", "{AE8E2FB9-9FE9-4CA6-81AA-80770D29142E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
